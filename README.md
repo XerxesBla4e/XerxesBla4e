@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/xerxescodes54" target="blank"><img src="https://img.shields.io/twitter/follow/xerxescodes54?logo=twitter&style=for-the-badge" alt="xerxescodes54" /></a> </p>
 
-- 🔭 I’m currently working on [Movie mobile android application](https://github.com/XerxesBla4e/XerxesWap2.0)
+- 🔭 I’m currently working on [Movie mobile android application](https://github.com/XerxesBla4e/CompShop2.0.git)
 
 - 🌱 I’m currently learning **Java spring boot, Restful APIs(PHP)**
 
-- 👯 I’m looking to collaborate on **e-supervision mobile app**
+- 👯 I’m looking for help With Frontend Part **[Quiz App Backend](https://github.com/XerxesBla4e/QuizApp1.0.git)**
 
 - 💬 Ask me about **Android, java**
 
